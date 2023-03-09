@@ -1,4 +1,4 @@
-# Preview of Our News-Monkey App
+# Preview of Our NewsMonkey App
 
 ![General - NewsMonkey](https://user-images.githubusercontent.com/121795998/224104649-7ecbc811-8989-4ebe-bdba-d2d64b5bc0f4.png)
 
